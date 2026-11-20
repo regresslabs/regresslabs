@@ -1,4 +1,4 @@
-<img src="https://regresslabs.com/favicon.svg" width="48" alt="Regress Labs">
+<img src="logo.svg" width="48" alt="Regress Labs">
 
 ### Your users shouldn't be your test suite.
 
